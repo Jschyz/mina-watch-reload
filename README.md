@@ -2,6 +2,9 @@
 
 <img src="https://cloud.githubusercontent.com/assets/876707/18773863/cca59fae-8185-11e6-9d7b-050ba646b456.png" width = "172" height = "150" alt="LOGO" align=center />
 
+##介绍
+微信小程序IDE0.9版本功能还没完善，比如监听并自动编译、SASS预编译（wxss理解成css的子集）。开发不够便利，冲着极客精神，发现IDE发现IDE界面实现原理上基本都是[React](https://github.com/facebook/react) ＋ [monaco](https://github.com/Microsoft/monaco-editor)实现的。 
+
 ##下载声明
 
 * 相关代码纯属技术研究与爱好，请在学习使用后删除
@@ -24,3 +27,5 @@
   **[替换的文件点击这里下载](https://github.com/Jschyz/mina-watch-reload/archive/master.zip)**
 
 ##效果截图
+
+![IDE](https://raw.githubusercontent.com/Jschyz/mina-watch-reload/master/watch-reload.gif)
